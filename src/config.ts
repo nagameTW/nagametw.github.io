@@ -46,7 +46,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/demo-avatar.png",
+	avatar: "assets/images/avatar.png",
 	name: "Konnie",
 	bio: "國家資通安全研究院 工程師 | AI自動化檢測工具開發",
 	links: [
