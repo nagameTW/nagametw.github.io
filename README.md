@@ -1,17 +1,17 @@
 # Konnie's Tech Space
 
-Personal blog built with [Astro](https://astro.build) and [Fuwari](https://github.com/saicaca/fuwari).
+使用 [Astro](https://astro.build) 和 [Fuwari](https://github.com/saicaca/fuwari) 主題建立的個人技術部落格。
 
-## Commands
+## 指令
 
-| Command                    | Action                                           |
-|:---------------------------|:-------------------------------------------------|
-| `pnpm install`             | Install dependencies                             |
-| `pnpm dev`                 | Start local dev server at `localhost:4321`        |
-| `pnpm build`               | Build production site to `./dist/`               |
-| `pnpm preview`             | Preview build locally                            |
-| `pnpm new-post <filename>` | Create a new post                                |
+| 指令                       | 說明                                     |
+|:---------------------------|:-----------------------------------------|
+| `pnpm install`             | 安裝依賴                                 |
+| `pnpm dev`                 | 啟動本地開發伺服器 `localhost:4321`       |
+| `pnpm build`               | 建置正式版網站至 `./dist/`               |
+| `pnpm preview`             | 本地預覽建置結果                          |
+| `pnpm new-post <filename>` | 建立新文章                                |
 
-## License
+## 授權
 
-MIT License. Theme by [saicaca/fuwari](https://github.com/saicaca/fuwari).
+MIT License。主題來自 [saicaca/fuwari](https://github.com/saicaca/fuwari)。

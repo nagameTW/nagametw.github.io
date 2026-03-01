@@ -1,23 +1,23 @@
-# About
+# 關於我
 
-Hi, I'm **Konnie**, a cybersecurity researcher based in Taiwan.
+Hi，我是 **Konnie**，一位專注於網路安全領域的技術研究者。
 
-## Research
+## 研究方向
 
-My primary research interest is **TLS fingerprinting**, particularly **JA4 fingerprint analysis**. I work on developing more accurate methods for identifying and classifying network traffic by analyzing characteristics during the TLS handshake process.
+我主要的研究興趣集中在 **TLS 指紋識別技術**，特別是 **JA4 指紋分析**。透過分析 TLS 握手過程中的特徵，我致力於開發更精準的網路流量識別與分類方法。
 
-### Current Projects
+### 當前專案
 
-- **JA4 Fingerprint Analysis System** - TLS fingerprint identification tools based on the JA4 standard
-- Network traffic analysis and anomaly detection
-- Security protocol research
+- **JA4 指紋分析系統** - 基於 JA4 標準的 TLS 指紋識別工具
+- 網路流量分析與異常檢測
+- 安全協議研究
 
-## Tech Stack
+## 技術棧
 
-- **Languages**: Python, Go
-- **Domains**: Cybersecurity, Cryptography, Protocol Analysis
-- **Tools**: Wireshark, Scapy, TLS Protocol Analysis
+- **程式語言**：Python, Go
+- **專業領域**：網路安全、密碼學、協議分析
+- **研究工具**：Wireshark, Scapy, TLS 協議分析
 
-## Contact
+## 聯繫方式
 
 - GitHub: [@nagame309](https://github.com/nagame309)

@@ -9,7 +9,7 @@ import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
 	title: "Konnie's Tech Space",
-	subtitle: "Cybersecurity | JA4 Fingerprinting",
+	subtitle: "網路安全 | JA4 指紋分析",
 	lang: "zh-TW",
 	themeColor: {
 		hue: 217,
@@ -48,7 +48,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.png",
 	name: "Konnie",
-	bio: "Cybersecurity Researcher | NICS Engineer",
+	bio: "國家資通安全研究院 工程師 | AI自動化檢測工具開發",
 	links: [
 		{
 			name: "GitHub",
